@@ -8,13 +8,21 @@
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
         <module name="service" />
+        <module name="root" />
+      </profile>
+      <profile name="Annotation profile for Unknown" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wrapper" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="client" options="-parameters" />
-      <module name="service" options="-parameters" />
+      <module name="client" options="" />
+      <module name="root" options="-parameters" />
+      <module name="service" options="" />
     </option>
   </component>
 </project>
