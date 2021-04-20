@@ -16,6 +16,6 @@
 
     <modules>
         <module>service</module>
-        <module>repository</module>
+        <module>client</module>
     </modules>
 </project>
