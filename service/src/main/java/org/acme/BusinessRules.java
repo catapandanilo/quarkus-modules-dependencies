@@ -3,9 +3,9 @@ package org.acme;
 import javax.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped
-public class BusinessRulesAgro {
+public class BusinessRules {
 
     public String getCompanyName() {
-        return "Jacto S/A";
+        return "Catapan S/A";
     }
 }
