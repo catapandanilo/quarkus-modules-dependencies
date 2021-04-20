@@ -6,6 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>example-dependencies</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -13,4 +14,7 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
+    <modules>
+        <module>service</module>
+    </modules>
 </project>
