@@ -12,10 +12,10 @@ public class ClientResourceTest {
     @Test
     public void testHelloEndpoint() {
         given()
-          .when().get("/client/name")
+          .when().get("/client/company")
           .then()
              .statusCode(200)
-             .body(is("Jacto S/A"));
+             .body(is("Catapan S/A"));
     }
 
 }
