@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="281e1bda-46e8-4184-bd7d-b540f7d619e2" name="Default Changelist" comment="remove repository folder">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/org/acme/resource/ClientResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/java/org/acme/resource/ClientResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/test/java/org/acme/ClientResourceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/test/java/org/acme/NativeClientResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-dependencies.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/root/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/src/test/java/org/example/ExampleResourceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/src/test/java/org/example/NativeExampleResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/src/test/resources/META-INF/resources/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/src/test/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/acme/client/model/ClientEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/org/acme/client/model/ClientEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/acme/client/repository/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/org/acme/client/repository/ClientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/acme/client/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/org/acme/client/service/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rR2z9GKrD66vq7qRKKdlHkei94" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/root/src/main/resources/META-INF" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/root/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$/client/src/main/resources/META-INF/" />
+      <recent name="$PROJECT_DIR$/root/src/main/resources" />
+      <recent name="$PROJECT_DIR$/root/src/test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/root/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$/service/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$/service/src/main/resources/META-INF/" />
+      <recent name="$PROJECT_DIR$/service/src/main/resources" />
+      <recent name="$PROJECT_DIR$/service/src/main/resources/META-INF/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="QuarkusRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Quarkus.service">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="QuarkusRunConfigurationType" factoryName="Quarkus">
+      <module name="client" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list />
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/client" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="root" type="QuarkusRunConfigurationType" factoryName="Quarkus">
+      <module name="root" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list />
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/root" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service" type="QuarkusRunConfigurationType" factoryName="Quarkus">
+      <module name="service" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list />
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/service" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="281e1bda-46e8-4184-bd7d-b540f7d619e2" name="Default Changelist" comment="" />
+      <created>1618924840805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618924840805</updated>
+      <workItem from="1618924842005" duration="4005000" />
+      <workItem from="1618928872618" duration="2167000" />
+      <workItem from="1618936644434" duration="3880000" />
+      <workItem from="1618940615461" duration="14000" />
+      <workItem from="1619119259410" duration="5584000" />
+      <workItem from="1619179694452" duration="4404000" />
+      <workItem from="1619189275117" duration="1922000" />
+      <workItem from="1619195758064" duration="441000" />
+      <workItem from="1619196218495" duration="65000" />
+      <workItem from="1619620871713" duration="1524000" />
+      <workItem from="1619627715948" duration="2768000" />
+    </task>
+    <task id="LOCAL-00001" summary="update config misc">
+      <created>1618929507803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618929507803</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add example to use method in another module">
+      <created>1618938463397</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618938463397</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add dto, model and repository packages into service/client module">
+      <created>1619196158581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619196158581</updated>
+    </task>
+    <task id="LOCAL-00004" summary="remove repository folder">
+      <created>1619196187219</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619196187219</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="update config misc" />
+    <MESSAGE value="add example to use method in another module" />
+    <MESSAGE value="add dto, model and repository packages into service/client module" />
+    <MESSAGE value="remove repository folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove repository folder" />
+  </component>
+</project>

@@ -29,10 +29,17 @@ public class ClientResource {
 //        return Response.ok(clientService.listAll()).build();
 //    }
 
+//    @GET
+//    @Produces(MediaType.APPLICATION_JSON)
+//    @Path("/{id}")
+//    public Response getIdClient(@PathParam("id") Long id) {
+//        return Response.ok(clientService.getNameById(id)).build();
+//    }
+
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    @Path("/{id}")
-    public Response getIdClient(@PathParam("id") Long id) {
-        return Response.ok(clientService.getNameById(id)).build();
+    @Path("/simpletest")
+    public Response getIdClient() throws Exception {
+        return Response.ok(clientService.simpleTest()).build();
     }
 }

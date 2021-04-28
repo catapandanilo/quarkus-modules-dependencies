@@ -1,6 +1,5 @@
 package org.acme.client.model;
 
-import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -9,7 +8,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "client")
-public class ClientEntity extends PanacheEntityBase {
+public class ClientEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

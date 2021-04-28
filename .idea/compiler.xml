@@ -12,14 +12,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="wrapper" target="1.5" />
+      <module name="client" target="11" />
+      <module name="example-dependencies" target="11" />
+      <module name="root" target="11" />
+      <module name="service" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="client" options="" />
       <module name="root" options="-parameters" />
-      <module name="service" options="" />
     </option>
   </component>
 </project>
